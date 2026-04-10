@@ -9,7 +9,15 @@ int main()
 		if(i%2==0){
 			printf("%d\n",i*i);
 	}else{
-		printf("%d",i);
+		printf("%d\n",i);
 	}
   }
 }
+/*
+output :-enter a number:5
+1
+4
+3
+16
+5
+*/
