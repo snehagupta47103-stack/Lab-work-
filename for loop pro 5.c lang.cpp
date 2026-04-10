@@ -7,3 +7,18 @@ int main()
 		printf("%c\n", ch);
 	}
 }
+/*
+output :- A
+C
+E
+G
+I
+K
+M
+O
+Q
+S
+U
+W
+Y
+*/
