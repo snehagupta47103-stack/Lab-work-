@@ -19,3 +19,16 @@ int main()
 		printf("%d\n", arr[i]);
 	}
 }
+/*
+output :-enter value:11
+22
+enter value:33
+enter value:44
+enter value:55
+enter value:66
+11
+22
+150
+44
+55
+*/
