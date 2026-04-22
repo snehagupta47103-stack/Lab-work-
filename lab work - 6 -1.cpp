@@ -24,3 +24,8 @@ int main()
 	else
 		printf("not strong");
 }
+/*
+output :-
+enter your passwordsneha@029
+your password is strong
+*/
